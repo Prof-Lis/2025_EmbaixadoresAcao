@@ -1,6 +1,10 @@
 body{
     background-color: #048050;
     color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 h1{
@@ -12,8 +16,31 @@ h1{
 
 }
 
+.principal{
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+}
+
 .pergunta, .respostas, .resultado, .txtresultado {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: justify;
     font-size: 24px;
+}
+
+button {
+  background-color: rgb(8,248,228,0.5);
+  color: #048050;
+  border: none;
+  border-radius: 15px;
+  padding: 15px;
+  transition: background-color 0.3s;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: justify;
+  font-size: 24px;
+}
+
+button:hover {
+  background-color: #048050;
+  color: #ffff;
 }
