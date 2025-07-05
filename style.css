@@ -1,6 +1,6 @@
 body{
     background-color: #048050;
-    color:rgb(8, 248, 228);
+    color:rgb(255, 255, 255);
 }
 
 h1{
@@ -12,7 +12,7 @@ h1{
 
 }
 
-.pergunta, .respostas, .resultado {
+.pergunta, .respostas, .resultado, p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: justify;
     font-size: 24px;
