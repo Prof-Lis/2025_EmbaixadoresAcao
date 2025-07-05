@@ -1,14 +1,19 @@
 body{
-    background-color: #010114;
-    color:aliceblue;
+    background-color: #048050;
+    color:rgb(8, 248, 228);
 }
 
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-shadow: 2px 2px rgb(240,248,255,0.5);
+    text-shadow: 2px 2px rgb(8,248,228,0.5);
     text-align: center;
-    color: aqua;
-    font-size: 24px;
+    font-size: 50px;
     text-transform: uppercase;
 
+}
+
+.pergunta, .respostas, .resultado {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 24px;
 }
