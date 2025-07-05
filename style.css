@@ -33,7 +33,8 @@ button {
   color: #048050;
   border: none;
   border-radius: 15px;
-  padding: 15px;
+  padding: 10px;
+  margin-right: 10px;
   transition: background-color 0.3s;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: justify;
@@ -43,5 +44,5 @@ button {
 button:hover {
   background-color: #048050;
   color: #ffff;
-  border:solid 1px #ffff
+  border:solid 3px #ffff
 }
