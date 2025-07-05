@@ -43,6 +43,5 @@ button {
 button:hover {
   background-color: #048050;
   color: #ffff;
-  border:#ffff
-  text-shadow: 2px 2px rgb(255,255,255,0.5);
+  border:1px #ffff
 }
