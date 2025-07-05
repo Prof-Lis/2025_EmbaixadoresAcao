@@ -12,7 +12,7 @@ h1{
 
 }
 
-.pergunta, .respostas, .resultado, p {
+.pergunta, .respostas, .resultado, .txtresultado {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: justify;
     font-size: 24px;
